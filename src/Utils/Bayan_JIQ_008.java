@@ -12,5 +12,4 @@ public class Bayan_JIQ_008 {
     "Class" goes into a java file and "objects" are what goes into a class.
 
      */
-
 }
