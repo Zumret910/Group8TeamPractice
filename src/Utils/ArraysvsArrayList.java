@@ -19,3 +19,4 @@ public class ArraysvsArrayList {
         System.out.println(numbersList.get(1)); // Output: 20
     }
 }
+//Arrays and ArrayLists are both used to store collections of elements in Java, but they have distinct differences in terms of functionality, flexibility, and usage. Here's a comparison of Arrays and ArrayLists to highlight their key differences:
