@@ -5,7 +5,7 @@ public class one_two {
         for (int i = 1; i <= 5; i++) {
             System.out.println(i);
 
-        System.out.println("hello word");
-    }
+            System.out.println("hello word");
         }
+    }
 }
