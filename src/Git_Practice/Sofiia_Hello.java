@@ -1,4 +1,4 @@
-package Utils;
+package Git_Practice;
 
 public class Sofiia_Hello {
     //Hello

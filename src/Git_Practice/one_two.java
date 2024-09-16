@@ -1,4 +1,4 @@
-package Utils;
+package Git_Practice;
 
 public class one_two {
     public static void main(String[] args) {

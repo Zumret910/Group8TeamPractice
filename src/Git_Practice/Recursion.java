@@ -1,4 +1,4 @@
-package Utils;public class Recursion {
+package Git_Practice;public class Recursion {
     public static int factorial(int n) {
         // Base case: factorial of 0 is 1
         if (n == 0) {

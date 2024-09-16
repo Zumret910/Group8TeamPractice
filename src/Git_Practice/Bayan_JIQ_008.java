@@ -1,4 +1,4 @@
-package Utils;
+package Git_Practice;
 
 public class Bayan_JIQ_008 {
 
