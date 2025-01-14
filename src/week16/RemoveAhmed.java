@@ -8,7 +8,7 @@ import java.util.stream.Collectors;
 
 public class RemoveAhmed {
      /*
-        Remove Ahmed
+        SortByValue Ahmed
 
         Create a method that will accept a List of names and return the List with all the Ahmed names removed
             parameter: List<String>

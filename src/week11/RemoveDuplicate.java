@@ -6,7 +6,7 @@ import java.util.Set;
 
 public class RemoveDuplicate {
     /*
-      Remove Duplicates
+      SortByValue Duplicates
 
       Create a method that will remove the duplicate values from an int array
       The returning array should only have one occurrence of each number

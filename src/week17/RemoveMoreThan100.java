@@ -8,7 +8,7 @@ import java.util.stream.Collectors;
 
 public class RemoveMoreThan100 {
     /*
-        Remove More Than 100
+        SortByValue More Than 100
 
         Create a method that will accept an Integer List and return the List with any value greater than 100 removed
             parameter: List<Integer>

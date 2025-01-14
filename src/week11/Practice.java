@@ -43,7 +43,7 @@ public class Practice {
         return moved;
     }
       /*
-        Remove Duplicates
+        SortByValue Duplicates
 
         Create a method that will remove the duplicate values from an int array
         The returning array should only have one occurrence of each number
