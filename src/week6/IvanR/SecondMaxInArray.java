@@ -4,7 +4,7 @@ public class SecondMaxInArray {
 
     public static void main(String[] args) {
 
-        int[] arr = {14, 5, 6, 23, 99, 99, 80};
+        int[] arr = {99, 99, 99};
 
         System.out.println("secondMax(arr) = " + secondMax(arr));
 
@@ -17,7 +17,7 @@ public class SecondMaxInArray {
 
         for (int each : arr) {
 
-            if (each > max) {
+            if (each >= max) {
 
                 secondMax = max;
                 max = each;
